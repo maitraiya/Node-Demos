@@ -1,8 +1,0 @@
-.effector{
-    border: 1px solid white;
-    transition:0.5s;
-}
-.effector:hover{
-    border-bottom: 2px solid orange;
-    transform:scale(1.1);
-}

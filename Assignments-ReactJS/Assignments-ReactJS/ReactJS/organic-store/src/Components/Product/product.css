@@ -1,8 +1,0 @@
-.effect{
-    margin:20px;
-    transition: transform .2s;
-    box-shadow: 2px 2px 2px 2px gray;
-}
-.effect:hover{
-    transform: scale(1.05);
-}

@@ -1,8 +1,0 @@
-.Post{
-    box-sizing: content-box;  
-    width: 300px;
-    padding: 30px;  
-    border: 1px solid blue;
-    display:inline-block;
-    margin:30px;
-}
